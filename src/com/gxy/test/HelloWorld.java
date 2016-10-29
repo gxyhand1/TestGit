@@ -7,4 +7,8 @@ public class HelloWorld {
 		System.out.println("-------------- 1 ");
 	}
 
+	public void showInfo(){
+		System.out.println("-------------- develop --------------");
+	}
+	
 }
